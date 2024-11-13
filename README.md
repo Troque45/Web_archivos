@@ -1,5 +1,5 @@
 # Web_archivos
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,3 +21,4 @@
     <script src="script.js"></script>
 </body>
 </html>
+```
